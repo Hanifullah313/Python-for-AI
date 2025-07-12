@@ -21,4 +21,5 @@ Welcome to my **Python for AI** repository! This is a personal learning journal 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/python-for-ai.git
+   git clone https://github.com/hanifullah313/python-for-ai.git
+ ad

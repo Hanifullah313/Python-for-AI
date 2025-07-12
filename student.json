@@ -1,0 +1,11 @@
+{
+    "name": "Awais Ahmad",
+    "age": 21,
+    "skills": [
+        "Python",
+        "Django",
+        "AI"
+    ],
+    "enrolled": true,
+    "course": "Python for AI"
+}
